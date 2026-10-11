@@ -1,0 +1,7 @@
+rand_test
+reg_test
+fifo_test
+race_test
+long_test
+ready_test
+enable_test
